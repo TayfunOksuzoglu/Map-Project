@@ -1,2 +1,2 @@
 # Map-Project
-A Javascript/CSS/HTML Map App Project Utilizing Leaflet, Geolocation, Local Storage
+A Javascript/CSS/HTML Map App Project Utilizing Object Oriented Programming, Leaflet, Geolocation and Local Storage.
