@@ -88,11 +88,7 @@ class App {
     containerWorkouts.addEventListener('click', this._moveToPopup.bind(this));
     // To Remove the workout and its marker
     containerWorkouts.addEventListener('click', this._deleteWorkout.bind(this));
-    // To Remove All
-    removeAllButton.addEventListener(
-      'click',
-      this._deleteAllWorkouts.bind(this)
-    );
+
   }
 
   _getCurrentLocation() {
